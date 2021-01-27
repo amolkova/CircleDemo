@@ -32,6 +32,4 @@ public class Circle {
 		this.ference = 2 * Math.PI * radius;
 	}
 	
-	
-	
 }
